@@ -1,0 +1,7 @@
+[
+  {
+    "authToken": "<your_auth_token>",
+    "botId": "<your_bot_id>",
+    "voteCountsFor": 172800
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Top.gg",
+    "ips": ["159.203.105.187"],
+    "pageLink": "https://top.gg/bot/"
+  },
+  {
+    "name": "DBL",
+    "ips": ["185.213.155.251", "146.70.107.195"],
+    "pageLink": "https://discordbotlist.com/bots/"
+  },
+  {
+    "name": "Discords.com",
+    "ips": ["134.209.121.48", "51.158.154.220", "212.129.55.67"],
+    "authToken": "<your_auth_token>",
+    "pageLink": "https://discords.com/bots/bot/"
+  },
+  {
+    "name": "discord-botlist.eu",
+    "ips": ["87.237.55.241"],
+    "pageLink": "https://discord-botlist.eu/bots/"
+  },
+  {
+    "name": "Wumpus.store",
+    "ips": ["5.9.157.173"],
+    "pageLink": "https://wumpus.store/bot/"
+  }
+]
