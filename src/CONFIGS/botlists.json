@@ -12,7 +12,6 @@
   {
     "name": "Discords.com",
     "ips": ["134.209.121.48", "51.158.154.220", "212.129.55.67"],
-    "authToken": "<your_auth_token>",
     "pageLink": "https://discords.com/bots/bot/"
   },
   {
